@@ -69,9 +69,3 @@ node server.js
 - **model/**: Data models (User, Music, Album)
 - **routes/**: API route definitions
 - **services/**: Service layer for storage and other utilities
-
-## Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-[MIT](LICENSE)
